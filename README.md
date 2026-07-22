@@ -196,5 +196,7 @@ Projects built using
 ### ⭐ Thanks for visiting my profile!
 
 *"Code. Learn. Build. Repeat."*
-
+<p align="center">
+<img src="https://raw.githubusercontent.com/PRATHAM1146/PRATHAM1146/output/github-contribution-grid-snake-dark.svg"/>
+</p>
 </div>
