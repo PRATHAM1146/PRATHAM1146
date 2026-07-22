@@ -1,5 +1,7 @@
 <div align="center">
-
+<p align="center">
+<img src="https://raw.githubusercontent.com/PRATHAM1146/PRATHAM1146/output/github-contribution-grid-snake-dark.svg"/>
+</p>
 # Hi 👋, I'm Pratham Panchal
 
 ### B.Tech Information Technology Student | AI Developer | Full Stack Developer
@@ -166,15 +168,6 @@ Projects built using
 
 ---
 
-# 🎯 Competitive Programming
-
-- 💻 Java
-- 🧩 Data Structures & Algorithms
-- 📈 Solved 200+ Coding Problems
-- ⚡ Problem Solving
-
----
-
 # 🌐 Connect with Me
 
 <p align="center">
@@ -196,7 +189,5 @@ Projects built using
 ### ⭐ Thanks for visiting my profile!
 
 *"Code. Learn. Build. Repeat."*
-<p align="center">
-<img src="https://raw.githubusercontent.com/PRATHAM1146/PRATHAM1146/output/github-contribution-grid-snake-dark.svg"/>
-</p>
+
 </div>
